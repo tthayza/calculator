@@ -1,6 +1,6 @@
 # Desafio do dia 4: Criar uma calculadora.
 
-![preview](/github/preview.png)
+![preview](/preview.png)
 
 Página desenvolvida através do Desafio de 21 dias de código, proposto pela RocketSeat.
 
